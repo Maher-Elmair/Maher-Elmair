@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <strong>Hey</strong>
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"> 
+    <img src="assets/images/wave.gif" width="30"> 
     <strong>, I'm Maher Elmair</strong>
   </h1>
 
@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px" />
+  <img src="assets/images/lines.png" width="100%" height="6px" />
 </p>
 
 ## 🙋 About Me
@@ -47,7 +47,7 @@ Become a professional **Full-Stack Web Developer**.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px" />
+  <img src="assets/images/lines.png" width="100%" height="6px" />
 </p>
 
 ## 🛠️ Tech Stack  
@@ -105,7 +105,7 @@ Become a professional **Full-Stack Web Developer**.
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px" />
+  <img src="assets/images/lines.png" width="100%" height="6px" />
 </p>
 
 ## 📊 GitHub Stats
@@ -120,7 +120,22 @@ Become a professional **Full-Stack Web Developer**.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px" />
+  <img src="assets/images/lines.png" width="100%" height="6px" />
+</p>
+
+## 🟡 Pacman Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maher-Elmair/<REPO>/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maher-Elmair/<REPO>/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Maher-Elmair/<REPO>/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+  <br/>
+  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
+</div>
+
+<p align="center">
+  <img src="assets/images/lines.png" width="100%" height="6px" />
 </p>
 
 ## 🧠 Quote to Live By
@@ -143,7 +158,7 @@ Become a professional **Full-Stack Web Developer**.
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px" />
+  <img src="assets/images/lines.png" width="100%" height="6px" />
 </p>
 
 ## 🔗 Let’s Connect  
@@ -157,7 +172,7 @@ Become a professional **Full-Stack Web Developer**.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px" />
+  <img src="assets/images/lines.png" width="100%" height="6px" />
 </p>
 
 <p align="center">
