@@ -1,16 +1,16 @@
 <div align="center">
   <h1>
     <strong>Hey</strong>
-    <img src="assets/images/wave.gif" width="30"> 
-    <strong>, I'm Maher Elmair</strong>
+    <img src="assets/images/wave.gif" width="30" alt="wave"> 
+    <strong>I'm Maher Elmair</strong>
   </h1>
-
   <p>
     🚀 Web Developer | ⚛️ Frontend Web Developer | 🎨 Web Designer | 🌍 Open Source Contributor
   </p>
-
   <p>
-     <em>A Passionate Full Stack Developer from Egypt 🇪🇬</em> 
+     <em>
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=A+Passionate+Full+Stack+Developer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" /></a>
+     </em> 
   </p>
 </div>
 
@@ -111,17 +111,55 @@ Become a professional **Full-Stack Web Developer**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maher-Elmair&show_icons=true&theme=radical" alt="Maher's GitHub stats" />
+
+  <!-- Row 1: Main Stats + Alternate Stats -->
+  <a href="https://github.com/Maher-Elmair" target="_blank" style="margin-right:16px;">
+    <img src="https://gh-readme-profile.vercel.app/api?username=Maher-Elmair&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Maher's GitHub stats" height="192px"/>
+  </a>
+
+  <a href="https://github.com/Maher-Elmair" target="_blank">
+    <img alt="Maher Elmair's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Maher-Elmair&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="192px"/>
+  </a>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maher-Elmair&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maher-Elmair&layout=compact&theme=radical" alt="Top Langs" />
+<p align="center" style="margin-top:16px;">
+
+  <!-- Row 2: Streak Stats + Top Languages -->
+  <a href="https://github.com/Maher-Elmair" target="_blank" style="margin-right:16px;">
+    <img src="https://streak-stats.demolab.com?user=Maher-Elmair&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" alt="GitHub Streak" height="192px"/>
+  </a>
+
+  <a href="https://github.com/Maher-Elmair" target="_blank">
+    <img 
+      alt="Maher Elmair's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Maher-Elmair&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
+      height="192px"
+    />
+  </a>
+
 </p>
 
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="assets/images/lines.png" width="100%" height="6px" />
+  <a href="https://github.com/Maher-Elmair">
+    <img src="https://github-profile-trophy.vercel.app/?username=Maher-Elmair&theme=nord&column=8" alt="GitHub Trophies" />
+  </a>
 </p>
+
+## 📈 GitHub Activity Graph
+
+<!-- Activity Graph --> 
+<div align="center">
+  <a href="https://github.com/Maher-Elmair">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Maher-Elmair&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" 
+      alt="GitHub Activity Graph"
+    />
+  </a>
+</div>
 
 ## 🟡 Pacman Contribution Graph
 <div align="center">
