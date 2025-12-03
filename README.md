@@ -119,7 +119,7 @@ Become a professional **Full-Stack Web Developer**.
   </a>
 
   <a href="https://github.com/Maher-Elmair" target="_blank">
-    <img alt="Maher Elmair's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Maher-Elmair&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+    <img alt="Maher's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Maher-Elmair&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
   </a>
 
 </p>
@@ -128,12 +128,12 @@ Become a professional **Full-Stack Web Developer**.
 
   <!-- Row 2: Streak Stats + Top Languages -->
   <a href="https://github.com/Maher-Elmair" target="_blank" style="margin-right:16px;">
-    <img src="https://streak-stats.demolab.com?user=Maher-Elmair&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" alt="GitHub Streak" height="162px"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Maher's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Maher-Elmair&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
   </a>
 
   <a href="https://github.com/Maher-Elmair" target="_blank">
     <img 
-      alt="Maher Elmair's Top Languages" 
+      alt="Maher's Top Languages" 
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Maher-Elmair&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
       height="162px"
     />
