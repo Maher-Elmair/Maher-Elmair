@@ -109,6 +109,39 @@ Become a professional **Full-Stack Web Developer**.
   <img src="assets/images/lines.png" width="100%" height="6px" />
 </p>
 
+<h2>🚀 Featured Projects</h2>
+
+<p align="center" >
+  <a href="https://github.com/Maher-Elmair/Noqta-Marketplace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Noqta-Marketplace&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+  </a>
+  <a href="https://github.com/Maher-Elmair/HabitFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=HabitFlow&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Maher-Elmair/AutoSkip-for-YouTube">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=AutoSkip-for-YouTube&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+  </a>
+  <a href="https://github.com/Maher-Elmair/Snapgram-SocialApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Snapgram-SocialApp&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Maher-Elmair/Todo-List-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Todo-List-App&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+  </a>
+  <a href="https://github.com/Maher-Elmair/GitHub-Manager-Pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=GitHub-Manager-Pro&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/images/lines.png" width="100%" height="6px" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -141,33 +174,44 @@ Become a professional **Full-Stack Web Developer**.
 
 </p>
 
-## 🔝 Top Contributed Repo
-
+<details>
+  <summary><h2>🔝 Top Contributed Repo</h2></summary>
+  
+  <br>
+  
 <p align="center">
   <a href="https://github.com/Maher-Elmair">
     <img src="https://github-contributor-stats.vercel.app/api?username=Maher-Elmair&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Top Repo" />
   </a>
 </p>
+</details>
 
-## 🏆 GitHub Trophies
+<h2></h2>
 
+<details>
+  <summary><h2>🏆 GitHub Trophies</h2></summary>
+  
+  <br>
+  
 <p align="center">
   <a href="https://github.com/Maher-Elmair">
     <img src="https://github-profile-trophy.vercel.app/?username=Maher-Elmair&theme=github_dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
+</details>
 
 ## 📈 GitHub Activity Graph
 
 <!-- Activity Graph --> 
-<div align="center">
-  <a href="https://github.com/Maher-Elmair">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Maher-Elmair&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" 
-      alt="GitHub Activity Graph"
-    />
-  </a>
-</div>
+  <div align="center">
+    <a href="https://github.com/Maher-Elmair">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Maher-Elmair&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
+        alt="GitHub Activity Graph"
+      />
+    </a>
+  </div>
+</details>
 
 ## 🟡 Pacman Contribution Graph
 <div align="center">
