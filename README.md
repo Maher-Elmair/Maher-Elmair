@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <div align="center">
   <h1>
     <strong>Hey</strong>
@@ -22,22 +16,45 @@
 </div>
 
 <p align="center">
-  <img src="assets/images/lines.png" width="100%" height="6px" />
+  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-## 🙋 About Me
+<h2>🙋 About Me</h2>
 
-🌟 **Who I am:**  
-Self-taught developer passionate about **building modern, responsive, and user-friendly websites**.  
+<div align="left">
 
-📚 **Currently Learning:**  
-Advanced **React patterns**, **State Management** (Context & Reducer), and **UI/UX Design basics**.  
+<h3>🌟 Who I am</h3>
+<p>
+  <strong>Frontend Developer</strong> passionate about creating 
+  <strong>responsive, user-friendly</strong> web applications with 
+  <strong>clean, maintainable code</strong>.
+</p>
 
-🚀 **Interests:**  
-Open Source contributions & collaborating on web development projects.  
+<h3>📚 Currently Learning</h3>
+<ul>
+  <li><strong>React</strong> & <strong>TypeScript</strong> (Advanced)</li>
+  <li><strong>State Management</strong> (Context API, Redux Toolkit)</li>
+  <li>Modern <strong>UI/UX Design</strong> principles</li>
+  <li><strong>Performance Optimization</strong> techniques</li>
+</ul>
 
-🎯 **Goal:**  
-Become a professional **Full-Stack Web Developer**.
+<h3>🚀 What Drives Me</h3>
+<ul>
+  <li>Building <strong>meaningful applications</strong></li>
+  <li>Learning <strong>new technologies</strong></li>
+  <li><strong>Open Source</strong> contributions</li>
+  <li>Team collaboration</li>
+</ul>
+
+<h3>🎯 Vision</h3>
+<p>
+  To become a <strong>Full-Stack Developer</strong>, mastering both 
+  <strong>frontend and backend</strong> technologies.
+</p>
+
+</div>
+
+<br>
 
 <p align="center">  
   <!-- Profile Views Counter -->
@@ -54,7 +71,7 @@ Become a professional **Full-Stack Web Developer**.
 </p>
 
 <p align="center">
-  <img src="assets/images/lines.png" width="100%" height="6px" />
+  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
 ## 🛠️ Tech Stack  
@@ -112,7 +129,7 @@ Become a professional **Full-Stack Web Developer**.
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-  <img src="assets/images/lines.png" width="100%" height="6px" />
+  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
 ## 📊 GitHub Stats
@@ -227,6 +244,10 @@ Become a professional **Full-Stack Web Developer**.
   </div>
 </details>
 
+<h2></h2>
+
+<br>
+
 ## 🟡 Pacman Contribution Graph
 <div align="center">
   <picture>
@@ -238,31 +259,39 @@ Become a professional **Full-Stack Web Developer**.
   <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
 </div>
 
+<br>
+
 <p align="center">
-  <img src="assets/images/lines.png" width="100%" height="6px" />
+  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-## 🧠 Quote to Live By
+<h2 align="left">🧠 Quotes to Live By</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="500">
-        <i>“The only limit to our growth is the one we set for ourselves.”</i><br>
-        — <i>Ibn Khaldun</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="500">
-        <b>"شُعُورُ الإِنْسَانِ بِجَهْلِهِ ضَرْبٌ مِنْ ضُرُوبِ الْمَعْرِفَةِ."</b><br>
-        — ابن خلدون
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+<td align="center">
+
+$\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{The only limit to our growth is the one we set for ourselves.}}$  $\color{#BF91F3}\Large{\text{❞}}$  
+<div align="right">$\color{#70A5FD}\normalsize{\text{— Ibn Khaldun}}$</div>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+  
+$\color{#BF91F3}\Large{\text{❞}}$  $\color{#38BDAE}\large{\text{شُعُورُ الإِنْسَانِ بِجَهْلِهِ ضَرْبٌ مِنْ ضُرُوبِ الْمَعْرِفَةِ.}}$  $\color{#BF91F3}\Large{\text{❝}}$  
+<div align="right">$\color{#70A5FD}\normalsize{\text{— ابن خلدون}}$</div>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <p align="center">
-  <img src="assets/images/lines.png" width="100%" height="6px" />
+  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
 ## 🔗 Let’s Connect  
@@ -270,14 +299,16 @@ Become a professional **Full-Stack Web Developer**.
 <br>
 
 <p align="center">
-  <a href="mailto:maher.elmair.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/maher-elmair"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Maher_Elmair"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/Maher-Elmair"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://maher-elmair.github.io/My_Website"><img src="https://img.shields.io/badge/🧑‍💻%20Portfolio-8A2BE2?style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:maher.elmair.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-bf91f3?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/maher-elmair"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"/></a>
+  <a href="https://x.com/Maher_Elmair"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://github.com/Maher-Elmair"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://maher-elmair.github.io/My_Website"><img src="https://img.shields.io/badge/Portfolio-34a89d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<h2></h2>
+<p align="center">
+  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
+</p>
 
 <br>
 
