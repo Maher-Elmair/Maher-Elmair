@@ -74,66 +74,85 @@
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-## 🛠️ Tech Stack  
+  <h2>🛠️ Tech Stack</h2>
+    
+  <h3>🎨 Languages & Core</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </p>
 
-### 🎨 Languages & Core
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  <h3>⚛️ Frontend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+    <img src="https://img.shields.io/badge/Refine-242938?style=for-the-badge&logo=refine&logoColor=white" />
+  </p>
 
-### ⚛️ Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Refine](https://img.shields.io/badge/Refine-242938?style=for-the-badge&logo=refine&logoColor=white)
+  <h3>🎨 UI & Styling</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
 
-### 🎨 UI & Styling
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  <h3>📦 State Management & Data</h3>
+  <p>
+    <img src="https://img.shields.io/badge/LocalStorage-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/zustand-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+  </p>
 
-### 📦 State Management & Data
-![LocalStorage](https://img.shields.io/badge/LocalStorage-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+  <h3>📂 File & Drag / Drop</h3>
+  <p>
+    <img src="https://img.shields.io/badge/react--dropzone-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/dnd--kit-000000?style=for-the-badge&logo=react&logoColor=white" />
+  </p>
 
+  <h3>🖥️ Backend & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
 
-### 📂 File & Drag/Drop
-![react-dropzone](https://img.shields.io/badge/react--dropzone-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![dnd-kit](https://img.shields.io/badge/dnd--kit-000000?style=for-the-badge&logo=react&logoColor=white)
+  <h3>⚒️ Tools & Others</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+  </p>
 
-### 🖥️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### ⚒️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
-### ☁️ Deployment & Hosting
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+  <h3>☁️ Deployment & Hosting</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
 
 <p align="center">
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-## 📊 GitHub Stats
+<details open>
+  <summary><h2>📊 GitHub Stats</h2></summary>
 
+  <br>
+  
 <p align="center">
 
   <!-- Row 1: Main Stats + Alternate Stats -->
@@ -164,44 +183,47 @@
 
 </p>
 
+</details>
+
+
 <h2></h2>
 
-<details>
+<details open>
   <summary><h2>🚀 Featured Projects</h2></summary>
   
   <br>
   
   <p align="center">
     <a href="https://github.com/Maher-Elmair/Noqta-Marketplace">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Noqta-Marketplace&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Noqta-Marketplace&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
     </a>
     <a href="https://github.com/Maher-Elmair/HabitFlow">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=HabitFlow&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=HabitFlow&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/Maher-Elmair/AutoSkip-for-YouTube">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=AutoSkip-for-YouTube&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=AutoSkip-for-YouTube&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
     </a>
     <a href="https://github.com/Maher-Elmair/Snapgram-SocialApp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Snapgram-SocialApp&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Snapgram-SocialApp&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/Maher-Elmair/Todo-List-App">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Todo-List-App&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Todo-List-App&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
     </a>
     <a href="https://github.com/Maher-Elmair/GitHub-Manager-Pro">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=GitHub-Manager-Pro&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=GitHub-Manager-Pro&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
     </a>
   </p>
 </details>
 
 <h2></h2>
 
-<details>
+<details open>
   <summary><h2>🔝 Top Contributed Repo</h2></summary>
 
   <br>
@@ -215,25 +237,24 @@
 
 <h2></h2>
 
-<details>
+<details open>
   <summary><h2>🏆 GitHub Trophies</h2></summary>
   
   <br>
   
 <p align="center">
   <a href="https://github.com/Maher-Elmair">
-    <img src="https://github-profile-trophy.vercel.app/?username=Maher-Elmair&theme=github_dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Maher-Elmair&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 </details>
 
 <h2></h2>
 
-<br>
+<details open>
+  <summary><h2>📈 GitHub Activity Graph</h2></summary>
 
-## 📈 GitHub Activity Graph
-
-<!-- Activity Graph --> 
+  <!-- Activity Graph --> 
   <div align="center">
     <a href="https://github.com/Maher-Elmair">
       <img 
@@ -246,9 +267,11 @@
 
 <h2></h2>
 
-<br>
+<details open>
+  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
 
-## 🟡 Pacman Contribution Graph
+  <br>
+    
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph-dark.svg" />
@@ -258,6 +281,7 @@
   <br/>
   <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
 </div>
+</details>
 
 <br>
 
