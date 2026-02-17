@@ -223,7 +223,7 @@
 
 <h2></h2>
 
-<details open>
+<details>
   <summary><h2>🔝 Top Contributed Repo</h2></summary>
 
   <br>
