@@ -193,27 +193,40 @@
   
   <br>
   
+  <!-- Row 1 -->
   <p align="center">
-    <a href="https://github.com/Maher-Elmair/Noqta-Marketplace">
-      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Noqta-Marketplace&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+    <a href="https://github.com/Maher-Elmair/Headline-News">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Headline-News&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
     </a>
     <a href="https://github.com/Maher-Elmair/HabitFlow">
       <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=HabitFlow&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
     </a>
   </p>
 
+  <!-- Row 2 -->
   <p align="center">
     <a href="https://github.com/Maher-Elmair/AutoSkip-for-YouTube">
       <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=AutoSkip-for-YouTube&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
     </a>
-    <a href="https://github.com/Maher-Elmair/Snapgram-SocialApp">
-      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Snapgram-SocialApp&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+    <a href="https://github.com/Maher-Elmair/Noqta-Marketplace">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Noqta-Marketplace&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
     </a>
   </p>
 
+  <!-- Row 3 -->
+  <p align="center">
+    <a href="https://github.com/Maher-Elmair/Snapgram-SocialApp">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Snapgram-SocialApp&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="360px" height="130px"/>
+    </a>
+    <a href="https://github.com/Maher-Elmair/Refined-Admin-Dashboard">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Refined-Admin-Dashboard&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+    </a>
+  </p>
+
+  <!-- Row 4 -->
   <p align="center">
     <a href="https://github.com/Maher-Elmair/Todo-List-App">
-      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Todo-List-App&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=Todo-List-App&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
     </a>
     <a href="https://github.com/Maher-Elmair/GitHub-Manager-Pro">
       <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Maher-Elmair&repo=GitHub-Manager-Pro&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
@@ -230,7 +243,7 @@
   
 <p align="center">
   <a href="https://github.com/Maher-Elmair">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Maher-Elmair&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Top Repo" />
+   <img src="https://repository-contribution-stats.vercel.app/api?username=Maher-Elmair&limit=6&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&combine_all_yearly_contributions=true&hide_contributor_rank=false" alt="GitHub Top Repo" />
   </a>
 </p>
 </details>
@@ -244,7 +257,7 @@
   
 <p align="center">
   <a href="https://github.com/Maher-Elmair">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Maher-Elmair&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-repo.vercel.app/?username=Maher-Elmair&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 </details>
@@ -305,8 +318,8 @@ $\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{The only limit
 <tr>
 <td align="center">
   
-$\color{#BF91F3}\Large{\text{❞}}$  $\color{#38BDAE}\large{\text{شُعُورُ الإِنْسَانِ بِجَهْلِهِ ضَرْبٌ مِنْ ضُرُوبِ الْمَعْرِفَةِ.}}$  $\color{#BF91F3}\Large{\text{❝}}$  
-<div align="right">$\color{#70A5FD}\normalsize{\text{— ابن خلدون}}$</div>
+$\color{#BF91F3}\Large{\text{❞}}$  $\color{#38BDAE}\large{\text{.شُعُورُ الإِنْسَانِ بِجَهْلِهِ ضَرْبٌ مِنْ ضُرُوبِ الْمَعْرِفَةِ}}$  $\color{#BF91F3}\Large{\text{❝}}$  
+<div align="left">$\color{#70A5FD}\normalsize{\text{ابن خلدون —}}$</div>
 
 </td>
 </tr>
