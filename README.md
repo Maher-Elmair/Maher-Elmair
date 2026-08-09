@@ -20,19 +20,19 @@
 </p>
 
 <h2>🙋 About Me</h2>
-
 <div align="left">
 
 <h3>🌟 Who I am</h3>
 <p>
   <strong>Frontend Developer</strong> passionate about creating 
   <strong>responsive, user-friendly</strong> web applications with 
-  <strong>clean, maintainable code</strong>.
+  <strong>clean, maintainable code</strong> using <strong>React</strong> and <strong>Next.js</strong>.
 </p>
 
 <h3>📚 Currently Learning</h3>
 <ul>
   <li><strong>React</strong> & <strong>TypeScript</strong> (Advanced)</li>
+  <li><strong>Next.js</strong> (App Router, Server Components, SSR/SSG)</li>
   <li><strong>State Management</strong> (Context API, Redux Toolkit)</li>
   <li>Modern <strong>UI/UX Design</strong> principles</li>
   <li><strong>Performance Optimization</strong> techniques</li>
@@ -74,7 +74,7 @@
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-  <h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
     
   <h3>🎨 Languages & Core</h3>
   <p>
@@ -88,6 +88,7 @@
   <h3>⚛️ Frontend Development</h3>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
@@ -101,6 +102,8 @@
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <a href="https://ui.aceternity.com/"><img src="https://img.shields.io/badge/Aceternity%20UI-000000?style=for-the-badge&logoColor=white" /></a>
+    <a href="https://motion.dev/docs/react-quick-start"><img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
@@ -112,6 +115,7 @@
     <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/zustand-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+    <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" />
   </p>
 
   <h3>📂 File & Drag / Drop</h3>
@@ -124,6 +128,7 @@
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
     <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
@@ -135,6 +140,10 @@
     <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
   </p>
 
   <h3>☁️ Deployment & Hosting</h3>
