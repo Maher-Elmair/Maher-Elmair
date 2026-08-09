@@ -1,8 +1,8 @@
-name: Generate pacman contribution graph
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # كل 12 ساعة
+    - cron: '0 3 * * *' # Runs once daily at 03:00 UTC
   workflow_dispatch:
   push:
     branches:
@@ -13,25 +13,48 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      # ✅ جلب المستودع
+      # Check out the repository so subsequent steps can read/write its contents
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      # ✅ توليد Pacman Contribution Graph
+      # Generate pacman-contribution-graph.svg
+      # continue-on-error is set because this third-party action occasionally
+      # fails due to transient upstream API issues. We don't want a temporary
+      # failure here to fail the whole job (and trigger a failure email) —
+      # instead we detect the failure below and simply skip publishing,
+      # letting the next scheduled run retry automatically.
       - name: Generate pacman-contribution-graph.svg
+        id: generate
+        continue-on-error: true
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: "Maher-Elmair" # ضع هنا اسم حسابك على GitHub
+          github_user_name: "Maher-Elmair"
 
-      # ✅ نشر الصورة على فرع output
-      - name: Publish pacman graph to output branch
+      # Verify that the SVG output was actually produced before attempting
+      # to publish anything. This guards against the "Build dir does not
+      # exist" failure that occurs when the generation step above fails
+      # silently or partially.
+      - name: Verify output was generated
+        id: check_dist
+        run: |
+          if [ -d "dist" ] && [ "$(ls -A dist 2>/dev/null)" ]; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::No output was generated in this run (likely a transient upstream failure). Skipping publish; will retry on the next scheduled run."
+          fi
+
+      # Publish the generated SVG(s) to the "output" branch, but only when
+      # generation actually succeeded. This prevents the publish step from
+      # failing when there is nothing to publish.
+      - name: Publish graph to output branch
+        if: steps.check_dist.outputs.exists == 'true'
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
