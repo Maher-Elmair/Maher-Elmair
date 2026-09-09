@@ -279,8 +279,8 @@
   <!-- Activity Graph --> 
   <div align="center">
     <a href="https://github.com/Maher-Elmair">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Maher-Elmair&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
+       <img 
+        src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Maher-Elmair&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
         alt="GitHub Activity Graph"
       />
     </a>
